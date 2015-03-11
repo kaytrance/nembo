@@ -23,7 +23,7 @@ NEMBo stands for **N**ode **E**xpress **M**ongodb **Bo**ilerplate.
 
 ### Installation
 - in case you do not have globally installed **gulp** and **bower**, install them by running `npm install -g gulp bower`
-- run `curl http://kaytrance.github.io/install | sh`
+- run `curl http://kaytrance.github.io/nembo/install | sh`
 
 
 
