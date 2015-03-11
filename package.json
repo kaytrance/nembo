@@ -1,0 +1,50 @@
+{
+  "name": "project-name",
+  "version": "0.0.1",
+  "description": "project-description",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "kaytrance",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "body-parser": "^1.12.0",
+    "compression": "^1.4.1",
+    "connect-mongo": "^0.7.0",
+    "consolidate": "^0.11.0",
+    "cookie-parser": "^1.3.4",
+    "ejs": "^2.3.1",
+    "express": "^4.12.2",
+    "express-session": "^1.10.3",
+    "jade": "^1.9.2",
+    "log4js": "^0.6.22",
+    "method-override": "^2.3.1",
+    "mongoose": "^3.8.24",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-copy": "0.0.2",
+    "gulp-if": "^1.2.5",
+    "gulp-jshint": "^1.9.2",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-ng-annotate": "^0.5.2",
+    "gulp-rev": "^3.0.1",
+    "gulp-rev-collector": "^0.1.4",
+    "gulp-sass": "^1.3.3",
+    "gulp-uglify": "^1.1.0",
+    "mocha": "^2.2.1",
+    "should": "^5.1.0"
+  }
+}
